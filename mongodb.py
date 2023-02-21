@@ -31,7 +31,7 @@ currency_list = {
 
 def constructor_stock(): 
     #這是範例,password改成自己的就好,記得把<>拿掉
-    client = MongoClient("mongodb+srv://komeijikoishi514:<password>@cluster0.v5qirw2.mongodb.net/?retryWrites=true&w=majority")
+    client = MongoClient("")
     db = client[stockDB]
     return db
 
@@ -104,7 +104,7 @@ def write_my_currency(userID , user_name, currency, condition, target_price):
 
 def constructor_currency():
     #這是範例,password改成自己的就好,記得把<>拿掉
-    client = MongoClient("mongodb+srv://komeijikoishi514:<password>@cluster0.v5qirw2.mongodb.net/?retryWrites=true&w=majority")
+    client = MongoClient("")
     db = client[currencyDB]
     return db
 

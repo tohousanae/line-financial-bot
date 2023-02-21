@@ -16,9 +16,9 @@ import twder
 app = Flask(__name__)
 
 # 必須放上自己的Channel Access Token
-line_bot_api = LineBotApi('8wApfLvOemp1Tk6Ny2WB7HLBCC7KuCEnutFyf8NPQ3UPgSZKAcwElDuc3Xp1kmW56h0f9E0p0hIO3CeEdEmTSNbRjoQwA+cfV/pP1/E2MGX9qC4K44havs8vODVwDu0XJlnYDgMQvz1MO/yQpjtbkwdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('')
 # 必須放上自己的Channel Secret
-handler = WebhookHandler('7f3d09e299ffe62a4e0a0361417141e4')
+handler = WebhookHandler('')
 def push_msg(event,msg):
     try:
         user_id = event.source.user_id

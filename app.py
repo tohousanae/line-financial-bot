@@ -17,9 +17,9 @@ import os
 app = Flask(__name__)
 
 # 必須放上自己的Channel Access Token
-line_bot_api = LineBotApi('')
+line_bot_api = LineBotApi("LINE_CHANNEL_ACCESS_TOKEN")
 # 必須放上自己的Channel Secret
-handler = WebhookHandler('')
+handler = WebhookHandler("LINE_CHANNEL_SECRET")
 def push_msg(event,msg):
     try:
         user_id = event.source.user_id

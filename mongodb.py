@@ -31,7 +31,7 @@ currency_list = {
 
 def constructor_stock(): 
     #這是範例,password改成自己的就好,記得把<>拿掉
-    client = MongoClient("")
+    client = MongoClient("MONGO-CLIENT")
     db = client[stockDB]
     return db
 

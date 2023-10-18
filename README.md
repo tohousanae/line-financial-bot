@@ -7,13 +7,17 @@
 1.油價查詢。<br>
 2.股價查詢。<br>
 3.匯率查詢、轉換。<br>
-4.記錄使用者關注的股票，推送使用者關注的股票資訊。<br>
+4.記錄使用者關注的匯率，推送使用者關注的匯率資訊。<br>
 
 ## 畫面
 ![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/b1ede206-2fd1-480d-a4bd-b99c1ca63d20)<br>
 油價查詢<br>
 <br>
-![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/062c66ec-a303-4cda-a943-b226fdbe523a)
+![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/062c66ec-a303-4cda-a943-b226fdbe523a)<br>
 匯率查詢<br>
-油價查詢<br>
-油價查詢<br>
+![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/690d4cb9-9f99-4b3f-95dd-8241dd743386)<br>
+股票查詢<br>
+![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/af2355a6-0d14-43cf-9859-d760da14b2b9)<br>
+記錄使用者關注的匯率<br>
+![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/f4a6ae0c-555c-4593-beac-9e5f4089917a)<br>
+<br>匯率推播

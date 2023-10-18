@@ -10,4 +10,6 @@
 4.記錄使用者關注的股票，推送使用者關注的股票資訊。<br>
 
 ## 畫面
+![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/b1ede206-2fd1-480d-a4bd-b99c1ca63d20)<br>
+油價查詢<br>
 

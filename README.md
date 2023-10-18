@@ -16,5 +16,4 @@
 ![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/8387104d-10f2-4854-81ec-537a7f5241f1)
 ![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/df2e20d8-33b4-4edd-9392-ca7965048a13)
 ![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/3ab5585f-5343-492f-b2e3-40cf8728c1b8)
-![image](https://github.com/tohousanae/line-financial-bot/assets/122202405/0d39db12-b92f-4869-b2ac-0c00c7e77c71)
 
